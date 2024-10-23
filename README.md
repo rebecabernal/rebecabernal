@@ -9,3 +9,4 @@ I always liked to learn how things works from the inside and now I'm on the othe
 Art is one of my passions, from music to crochet, including video games, photography, fashion design and painting.
 
 My english level is good and spanish native.
+Here is my contact: rebecabernalmesa@gmail.com
