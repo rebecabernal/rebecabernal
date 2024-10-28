@@ -18,15 +18,11 @@ Here is my contact: rebecabernalmesa@gmail.com
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rebecabernal&theme=shadow-green&border_radius=4.8&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebecabernal&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebecabernal&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebecabernal&theme=dark)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebecabernal&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebecabernal&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rebecabernal&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebecabernal&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rebecabernal&theme=jolly&utcOffset=8)
 
 ---
 
