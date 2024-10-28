@@ -23,9 +23,11 @@ Here is my contact: rebecabernalmesa@gmail.com
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebecabernal&theme=dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebecabernal&theme=dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebecabernal&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rebecabernal&theme=dark)
+
 
 ---
 
