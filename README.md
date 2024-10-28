@@ -21,6 +21,9 @@ Here is my contact: rebecabernalmesa@gmail.com
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=000000&color=E34F26'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=000000&color=1572B6'/></a>
 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rebecabernal&theme=shadow-green&border_radius=4.8&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 ---
 
 ![Thanks for visiting!](https://github.com/user-attachments/assets/c60514e2-186f-40b1-a8a0-adb38e305329)
