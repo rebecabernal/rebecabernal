@@ -21,7 +21,7 @@ Here is my contact: rebecabernalmesa@gmail.com
 
 [![rebecabernal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebecabernal)](https://github.com/rebecabernal/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebecabernal&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rebecabernal&theme=jolly&utcOffset=8)
+
 
 ---
 
