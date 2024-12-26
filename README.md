@@ -24,6 +24,3 @@ Here is my contact: rebecabernalmesa@gmail.com
 
 
 ---
-
-![Thanks for visiting!](https://github.com/user-attachments/assets/c60514e2-186f-40b1-a8a0-adb38e305329)
-
