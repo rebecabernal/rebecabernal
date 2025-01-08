@@ -13,6 +13,7 @@ Here is my contact: rebecabernalmesa@gmail.com
 
 ---
 Tools I Use:
+
 ![ScreenShot](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![ScreenShot](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![ScreenShot](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -33,14 +34,11 @@ Tools I Use:
 ![ScreenShot](https://img.shields.io/badge/Cloudinary-3448C5.svg?style=for-the-badge&logo=Cloudinary&logoColor=white)
 ![ScreenShot](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
 
-
-![shranch1](https://github.com/user-attachments/assets/0eb09446-b516-4bd1-9321-f9f308ebe3c4)
-
 ---
 
 ![rebecabernal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebecabernal&show_icons=true&theme=jolly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecabernal&theme=jolly)
 
-
+![shranch1](https://github.com/user-attachments/assets/0eb09446-b516-4bd1-9321-f9f308ebe3c4)
 ---
