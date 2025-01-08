@@ -35,9 +35,8 @@ Tools I Use:
 ![ScreenShot](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecabernal&theme=jolly)
 ![shranch1](https://github.com/user-attachments/assets/0eb09446-b516-4bd1-9321-f9f308ebe3c4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecabernal&theme=jolly)
 ![rebecabernal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebecabernal&show_icons=true&theme=jolly)
 
 ---
