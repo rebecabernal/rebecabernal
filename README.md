@@ -38,5 +38,6 @@ Tools I Use:
 ![shranch1](https://github.com/user-attachments/assets/0eb09446-b516-4bd1-9321-f9f308ebe3c4)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecabernal&theme=jolly)
 ![rebecabernal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebecabernal&show_icons=true&theme=jolly)
+![rebecabernal's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rebecabernal&theme=jolly)
 
 ---
