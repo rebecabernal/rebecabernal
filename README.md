@@ -1,7 +1,7 @@
 
 ---
 
-Hello World, I'm Rebeca, I'm 19 and currently studying a Frontend, Backend & AWS Bootcamp.
+Hello World, I'm Rebeca, I'm 20 and currently studying a Frontend, Backend & AWS Bootcamp.
 
 I always liked to learn how things works from the inside and now I'm on the other side of the screen.
 
